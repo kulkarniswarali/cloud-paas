@@ -1,1 +1,1 @@
-# cloud-paas
+# Platform as a service application
